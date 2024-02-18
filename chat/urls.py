@@ -20,5 +20,6 @@ from chat import views
 urlpatterns = [
    # path('admin/', admin.site.urls),
     path("",views.RenderMain, name="main"),
-    path("logreg/",include("log_reg.urls"))
+    path("logreg/",include("log_reg.urls")),
+    path("main/", include("main.urls"))
 ]
