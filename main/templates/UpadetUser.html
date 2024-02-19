@@ -36,10 +36,10 @@
         input[type="text"], input[type="email"], input[type="password"], input[type="radio"] {
             width: 100%;
             padding: 10px;
-            margin-bottom: 10px;
+            margin-bottom: 10px; 
             border: 1px solid #ddd;
             border-radius: 4px;
-            box-sizing: border-box;
+            box-sizing: border-box; 
         }
         input[type="radio"] {
             width: auto;
@@ -69,8 +69,8 @@
 </head>
 <body>
 <div class="container">
-    <h2>Register</h2>
-    <form action="signUp/" method="post">
+    <h2>Update Profile</h2>
+    <form action="update/" method="post">
         {% csrf_token %}
         <div class="form-group">
             <label for="first_name">First Name:</label>
@@ -95,7 +95,8 @@
             <input type="radio" id="teacher" name="role" value="teacher">
             <label for="teacher">Teacher</label>
         </div>
-        <button type="submit">Register</button>
+        <input type="hidden" name="firstEmail" value="{{user}}">
+        <button type="submit">Update</button>
     </form>
     <a href="{% url 'main' %}">To Main Page</a>
 </div>

@@ -2,6 +2,7 @@ from channels.consumer import AsyncConsumer
 import json 
 
 
+
 class Consumer(AsyncConsumer):
 
     async def websocket_connect(self, event):
@@ -41,3 +42,5 @@ class Consumer(AsyncConsumer):
             "type": "websocket.send",
             "text": json.dumps({"myMsg": "Hello from Django socket", "yourMsg": message['yourMsg']})
         })
+
+

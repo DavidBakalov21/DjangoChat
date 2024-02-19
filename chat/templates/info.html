@@ -1,0 +1,53 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+        margin: 0;
+        padding: 20px; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh; 
+        text-align: center;
+    }
+    .container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 400px;
+        box-sizing: border-box; 
+    }
+    h2 {
+        color: #333; 
+        margin-bottom: 16px;
+    }
+    p {
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 12px; 
+    }
+    a {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+    a:hover {
+        background-color: #0056b3;
+    }
+    .main-page-link {
+        font-weight: bold; 
+    }
+</style>
+<div class="container">
+    <h2>About the App</h2>
+    <p>This is the chat application for educational purposes. If you're new to this app, you should register by clicking the 'Sign Up' button. After that, you will see a registration form which will add you to the database of users.</p>
+    <p>After completing the steps above, you can start chatting with other users. For checking purposes, please create one more account and chat with it.</p>
+    <a href="{% url 'main' %}" class="main-page-link">To the Main Page</a>
+</div>

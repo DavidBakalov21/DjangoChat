@@ -21,5 +21,6 @@ urlpatterns = [
    # path('admin/', admin.site.urls),
     path("",views.RenderMain, name="main"),
     path("logreg/",include("log_reg.urls")),
-    path("main/", include("main.urls"))
+    path("main/", include("main.urls")),
+    path("info",views.render_info, name="info"),
 ]
