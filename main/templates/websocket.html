@@ -1,37 +1,129 @@
-{% load static %}
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Template</title>
-    <link rel="stylesheet" type="text/css" href="{% static 'styles/index.css' %}">
-
+    <title>Private Chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+        }
+        #friend {
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+        #name {
+            margin-bottom: 10px;
+            color: #333;
+        }
+        #chat-container {
+            width: 100%;
+            max-width: 600px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        #chat-messages {
+            height: 300px;
+            overflow-y: auto;
+            border-bottom: 1px solid #ccc;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 5px;
+        }
+        #message-input {
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            flex-grow: 1;
+        }
+        #send-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        #send-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
-    <button onclick="handleClick()">Click me to ping server</button>
+    <h2 id="friend">{{friend}}</h2>
 
-    <div id="output"></div>
+    <p id="name">{{user}}</p>
 
+<div id="chat-container">
+    <div id="chat-messages"></div>
+    <input type="text" id="message-input" placeholder="Type your message...">
+    <button id="send-button" onclick="sendMessage()">Send</button>
+</div>
 
-    <div id="chat-box">
-        <div id="messages"></div>
-        <div id="input-form">
-            <h2>This is your chat with {{friend}}</h2>
+<script>
+    const user = document.getElementById('name').textContent;
+    const friend = document.getElementById('friend').textContent;
+    const socket = new WebSocket("ws://127.0.0.1:8000/ws");
+    socket.onopen = (event) => {
+        console.log("WebSocket connection opened:", event);
+    };
 
-            <h3>Name:</h3>
-            <p id="name">{{user}}</p>
-           
+    socket.onmessage = (event) => {
+        console.log('event', event)
+        const message = event.data;
+        displayMessage(message);
+    };
 
-            <label for="message">Message:</label>
-            <input type="text" id="message" placeholder="Type your message">
+    socket.onclose = (event) => {
+        console.log("WebSocket connection closed:", event);
+    };
+    function displayMessage(message) {
+        const chatMessages = document.getElementById("chat-messages");
+        const messageElement = document.createElement("div");
+        messageElement.textContent = message;
+        chatMessages.appendChild(messageElement);
+    }
 
-            <button onclick="sendMessage()">Send</button>
-        </div>
-    </div>
+    function generateRoomName(user1, user2) {
+        let cleanedUser1 = user1.replace(/[@.]/g, '1');
+        let cleanedUser2 = user2.replace(/[@.]/g, '1');
+        return [cleanedUser1, cleanedUser2].sort().join('');
+    }
+    let currentChatRoom = generateRoomName(user,friend);
+    console.log('room', currentChatRoom);
+    updateChatUI();
 
-    {% comment %} <script src="{% static 'scripts/index.js' %}" defer></script> {% endcomment %}
-    <script src="{% static 'scripts/chat.js' %}" defer></script>
+    function updateChatUI() {
+        console.log(`Joined chat room: ${currentChatRoom}`);
+    }
+
+    function sendMessage() {
+        const messageInput = document.getElementById("message-input");
+        const message = messageInput.value;
+        if (message.trim() !== "") {
+            const data = { text: user+":"+message, room: currentChatRoom };
+            console.log(data)
+            socket.send(JSON.stringify(data));
+            messageInput.value = "";
+        }
+    }
+</script>
+
 </body>
 </html>
