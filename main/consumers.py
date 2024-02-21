@@ -1,6 +1,8 @@
 from channels.consumer import AsyncConsumer
+from main.helpers import MongoMessage, AddMessageToDb
 import json
 
+messages=MongoMessage.get_mongo_message_collection()
 class YourConsumer(AsyncConsumer):
     async def websocket_connect(self, event):
         await self.send({"type": "websocket.accept"})
@@ -13,6 +15,7 @@ class YourConsumer(AsyncConsumer):
         data = json.loads(text_data['text'])
         message = data['text']
         room = data['room']
+        AddMessageToDb.add_message([message,room],messages)
         await self.send_group(room, message)
 
     async def websocket_disconnect(self, event):

@@ -1,10 +1,12 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from log_reg.helpers import mongoConnection
-from main.helpers import displayAll, displayUser, UpdateUser
+from main.helpers import displayAll, displayUser, UpdateUser, GetRoomMessages, MongoMessage
 client=mongoConnection.get_mongo_collection()
+all_messeges=MongoMessage.get_mongo_message_collection()
 def my_websocket(request,User_email,friend_email):
-    return render(request, 'websocket.html',{'user':User_email, 'friend':friend_email})
+    message_list=GetRoomMessages.get_all_room_messages(all_messeges,User_email,friend_email)
+    return render(request, 'websocket.html',{'user':User_email, 'friend':friend_email, 'messages':message_list})
 
 def render_list(request,user):
     return displayAll.display_all(request,client,user)

@@ -71,7 +71,11 @@
     <p id="name">{{user}}</p>
 
 <div id="chat-container">
-    <div id="chat-messages"></div>
+    <div id="chat-messages">
+        {% for message in messages %}
+  <div>{{ message.message}}</div>
+{% endfor %}
+    </div>
     <input type="text" id="message-input" placeholder="Type your message...">
     <button id="send-button" onclick="sendMessage()">Send</button>
 </div>
