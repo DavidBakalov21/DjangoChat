@@ -15,7 +15,11 @@ class YourConsumer(AsyncConsumer):
         data = json.loads(text_data['text'])
         message = data['text']
         room = data['room']
-        AddMessageToDb.add_message([message,room],messages)
+        is_starter=data['starter']
+        print(is_starter)
+        if not is_starter:
+            print("nice")
+            AddMessageToDb.add_message([message,room],messages)
         await self.send_group(room, message)
 
     async def websocket_disconnect(self, event):

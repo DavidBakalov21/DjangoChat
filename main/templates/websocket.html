@@ -86,17 +86,24 @@
     const socket = new WebSocket("ws://127.0.0.1:8000/ws");
     socket.onopen = (event) => {
         console.log("WebSocket connection opened:", event);
+        sendStarter();
     };
 
     socket.onmessage = (event) => {
         console.log('event', event)
         const message = event.data;
+        if (message!=""){
         displayMessage(message);
+        }else{
+            console.log(message);
+        }
     };
 
     socket.onclose = (event) => {
         console.log("WebSocket connection closed:", event);
     };
+
+    
     function displayMessage(message) {
         const chatMessages = document.getElementById("chat-messages");
         const messageElement = document.createElement("div");
@@ -110,9 +117,10 @@
         return [cleanedUser1, cleanedUser2].sort().join('');
     }
     let currentChatRoom = generateRoomName(user,friend);
+   
     console.log('room', currentChatRoom);
     updateChatUI();
-
+  
     function updateChatUI() {
         console.log(`Joined chat room: ${currentChatRoom}`);
     }
@@ -121,11 +129,16 @@
         const messageInput = document.getElementById("message-input");
         const message = messageInput.value;
         if (message.trim() !== "") {
-            const data = { text: user+":"+message, room: currentChatRoom };
+            const data = { text: user+":"+message, room: currentChatRoom, starter: false };
             console.log(data)
             socket.send(JSON.stringify(data));
             messageInput.value = "";
         }
+    }
+    function sendStarter() {
+        const data = { text: "", room: currentChatRoom, starter: true };
+        console.log(data)
+        socket.send(JSON.stringify(data));
     }
 </script>
 
