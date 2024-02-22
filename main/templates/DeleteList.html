@@ -30,9 +30,19 @@
             background-color: transparent;
             border: none;
             cursor: pointer;
+            transition: color 0.2s ease-in-out;
         }
         li.item button.deleteButton {
-            color: #dc3545;
+            padding: 8px 16px;
+            background-color: #dc3545;
+            color: white;
+            border-radius: 4px;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+        }
+        li.item button.deleteButton:hover {
+            background-color: #b82e3a;
         }
         a {
             display: inline-block;
@@ -47,17 +57,26 @@
     </style>
 </head>
 <body>
-    <a href="{% url 'Profile' user=email %}">Hi, {{email}}!</a>
+    <h2 >Who do you want to delete</h2>
     <ul>
         {% for item in items %}
         <li class="item">
             {{ item.first_name }}  {{ item.last_name }}
             <div>
-                <a href="{% url 'chatUser' User_email=email friend_email=item.email %}">Chat</a> 
+                <button class="deleteButton" onclick="Delete('{{ item.email }}')">Delete</button>
             </div>
         </li>
         {% endfor %}
     </ul>
     <a href="{% url 'main' %}">to main page</a><br>
+    <script>
+function Delete(email){
+    fetch('delete/', {
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 'email': email }),
+    }).then(() =>window.location.reload());
+}
+    </script>
 </body>
 </html>

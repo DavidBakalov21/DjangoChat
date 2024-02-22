@@ -6,5 +6,7 @@ urlpatterns = [
     path('chats/<str:user>/',views.render_list, name='chatList'),
     path('Profile/<str:user>/',views.render_profile, name='Profile'),
     path('updateForm/<str:user>/',views.render_update, name='Update'),
+    path('deleteForm/<str:user>/',views.render_delete, name='DeleteForm'),
+    path('deleteForm/<str:user>/delete/',views.delete_user),
     path('updateForm/<str:user>/update/',views.update_profile),
 ]
