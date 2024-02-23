@@ -2,4 +2,7 @@ def check_role(collection,email):
     query = {"email":  email}
     document = collection.find_one(query)
     print(document)
-    return document['selected_role']
+    if document is not None and 'selected_role' in document:
+        return document['selected_role']
+    else:
+        return "not found"

@@ -1,5 +1,5 @@
 from django.urls import path
-from main import views
+from main import views, viewsNode
 
 urlpatterns = [
     path('ws/<str:User_email>/<str:friend_email>/', views.my_websocket, name="chatUser"),
@@ -9,4 +9,5 @@ urlpatterns = [
     path('deleteForm/<str:user>/',views.render_delete, name='DeleteForm'),
     path('deleteForm/<str:user>/delete/',views.delete_user),
     path('updateForm/<str:user>/update/',views.update_profile),
+    path("allStudent/<str:user>/", viewsNode.redirect_GET_req_to_express, name="AllStundentsInfo"),
 ]

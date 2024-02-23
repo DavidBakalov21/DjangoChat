@@ -44,23 +44,20 @@
             border-radius: 5px;
             transition: background-color 0.3s ease;
         }
-       
     </style>
 </head>
 <body>
-    <a href="{% url 'Profile' user=email %}">Hi, {{email}}!</a>
+    <h2>Hi,{{user}}</h2>
     <ul>
         {% for item in items %}
         <li class="item">
-            {{ item.first_name }}  {{ item.last_name }}
-            <div>
-                <a href="{% url 'chatUser' User_email=email friend_email=item.email %}">Chat</a> 
-            </div>
+            {{ item.first_name }} {{ item.last_name }}
+            <br>Email: {{ item.email }}
+            <br>Role: {{ item.selected_role }}
+            <br>Password: {{ item.password }}
         </li>
         {% endfor %}
     </ul>
     <a href="{% url 'main' %}">to main page</a><br>
-    <a href="{% url 'DeleteForm' user=email %}">Delete students</a><br>
-    <a href="{% url 'AllStundentsInfo' user=email %}">See all students</a><br>
 </body>
 </html>

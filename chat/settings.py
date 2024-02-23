@@ -61,6 +61,7 @@ CHANNEL_LAYERS = {
 
 ROOT_URLCONF = 'chat.urls'
 
+NODE_ENDPOINT = 'http://localhost:1000/allStudentsInfo'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',

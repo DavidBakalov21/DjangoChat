@@ -26,8 +26,11 @@ def render_update(request,user):
     return render(request, 'UpadetUser.html',{'user':user})
 
 def render_delete(request,user):
-    students=GetStudentsOnly.Get_Students_only(client)
-    return render(request, 'DeleteList.html',{'user':user, 'items':students})
+    if CheckRole.check_role(client,user)=="teacher":
+        students=GetStudentsOnly.Get_Students_only(client)
+        return render(request, 'DeleteList.html',{'user':user, 'items':students})
+    else:
+        return render(request,"LoginFail.html")
 
 @csrf_exempt
 def delete_user(request,user):
