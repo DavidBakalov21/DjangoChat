@@ -56,6 +56,7 @@
         <h2>Password: {{item.password}}</h2>
         <a href="{% url 'main' %}">Main</a>
         <a href="{% url 'Update' user=email %}">Update</a>
+        <a href="{% url 'UpdatePassword' user=email %}">Update password, patch</a>
         <a href="{% url 'chatList' user=email %}">Go chat</a>
     </div>
 </body>

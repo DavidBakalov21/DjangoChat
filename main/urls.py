@@ -10,4 +10,6 @@ urlpatterns = [
     path('deleteForm/<str:user>/delete/',views.delete_user),
     path('updateForm/<str:user>/update/',views.update_profile),
     path("allStudent/<str:user>/", viewsNode.redirect_GET_req_to_express, name="AllStundentsInfo"),
+    path('updatePasswordForm/<str:user>/',views.render_patch, name='UpdatePassword'),
+    path('updatePasswordForm/<str:user>/patch/',views.patch_profile),
 ]

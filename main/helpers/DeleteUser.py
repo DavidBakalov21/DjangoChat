@@ -1,3 +1,6 @@
 def delete_user(collection,user):
-    myquery = { "email": user }
-    collection.delete_one(myquery)
+    try:
+        myquery = { "email": user }
+        collection.delete_one(myquery)
+    except Exception as e:
+        print("error deleting user")
