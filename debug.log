@@ -1,0 +1,129 @@
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.05, 127.0.0.1:56697][0m
+[mHTTP GET /favicon.ico 200 [0.03, 127.0.0.1:56697][0m
+[mHTTP GET /logreg/login 200 [0.03, 127.0.0.1:56697][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:56697][0m
+[mHTTP POST /logreg/login/ 200 [0.80, 127.0.0.1:56878][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56878][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.61, 127.0.0.1:56878][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56878][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.03, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.05, 127.0.0.1:58105][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /logreg/login 200 [0.02, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP POST /logreg/login/ 200 [1.48, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.43, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP POST /logreg/login/ 200 [0.08, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.13, 127.0.0.1:58105][0m
+[mHTTP GET /favicon.ico 200 [0.06, 127.0.0.1:58105][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.61, 127.0.0.1:58105][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:58157]
+WebSocket CONNECT /ws [127.0.0.1:58157]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58105][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:58105][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:58158]
+WebSocket CONNECT /ws [127.0.0.1:58158]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:58105][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.11, 127.0.0.1:58164][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58158]
+WebSocket HANDSHAKING /ws [127.0.0.1:58165]
+WebSocket CONNECT /ws [127.0.0.1:58165]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58164][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.08, 127.0.0.1:58164][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58157]
+WebSocket HANDSHAKING /ws [127.0.0.1:58182]
+WebSocket CONNECT /ws [127.0.0.1:58182]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58164][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.14, 127.0.0.1:58164][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58165]
+WebSocket HANDSHAKING /ws [127.0.0.1:58184]
+WebSocket CONNECT /ws [127.0.0.1:58184]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58164][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.11, 127.0.0.1:58164][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58182]
+WebSocket HANDSHAKING /ws [127.0.0.1:58191]
+WebSocket CONNECT /ws [127.0.0.1:58191]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58164][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.17, 127.0.0.1:58164][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58184]
+WebSocket HANDSHAKING /ws [127.0.0.1:58192]
+WebSocket CONNECT /ws [127.0.0.1:58192]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58164][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.08, 127.0.0.1:58243][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58192]
+WebSocket HANDSHAKING /ws [127.0.0.1:58245]
+WebSocket CONNECT /ws [127.0.0.1:58245]
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:58243][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:58243][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58245]
+WebSocket HANDSHAKING /ws [127.0.0.1:58246]
+WebSocket CONNECT /ws [127.0.0.1:58246]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58243][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:58243][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58246]
+WebSocket HANDSHAKING /ws [127.0.0.1:58247]
+WebSocket CONNECT /ws [127.0.0.1:58247]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58243][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:58243][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58247]
+WebSocket HANDSHAKING /ws [127.0.0.1:58248]
+WebSocket CONNECT /ws [127.0.0.1:58248]
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:58243][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.07, 127.0.0.1:58243][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58191]
+WebSocket HANDSHAKING /ws [127.0.0.1:58255]
+WebSocket CONNECT /ws [127.0.0.1:58255]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58243][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.06, 127.0.0.1:58243][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58255]
+WebSocket HANDSHAKING /ws [127.0.0.1:58256]
+WebSocket CONNECT /ws [127.0.0.1:58256]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58243][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:58303][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58248]
+WebSocket HANDSHAKING /ws [127.0.0.1:58305]
+WebSocket CONNECT /ws [127.0.0.1:58305]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58303][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.10, 127.0.0.1:58343][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58305]
+WebSocket HANDSHAKING /ws [127.0.0.1:58344]
+WebSocket CONNECT /ws [127.0.0.1:58344]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58343][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.10, 127.0.0.1:58913][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58256]
+WebSocket HANDSHAKING /ws [127.0.0.1:58915]
+WebSocket CONNECT /ws [127.0.0.1:58915]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58913][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.09, 127.0.0.1:58966][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58915]
+WebSocket HANDSHAKING /ws [127.0.0.1:58968]
+WebSocket CONNECT /ws [127.0.0.1:58968]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58966][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.11, 127.0.0.1:59002][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58344]
+WebSocket HANDSHAKING /ws [127.0.0.1:59004]
+WebSocket CONNECT /ws [127.0.0.1:59004]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59002][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.08, 127.0.0.1:59002][0m
+WebSocket DISCONNECT /ws [127.0.0.1:58968]
+WebSocket HANDSHAKING /ws [127.0.0.1:59006]
+WebSocket CONNECT /ws [127.0.0.1:59006]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59002][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:59002][0m
+WebSocket DISCONNECT /ws [127.0.0.1:59004]
+WebSocket HANDSHAKING /ws [127.0.0.1:59008]
+WebSocket CONNECT /ws [127.0.0.1:59008]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59002][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.08, 127.0.0.1:59002][0m
+WebSocket DISCONNECT /ws [127.0.0.1:59006]
+WebSocket HANDSHAKING /ws [127.0.0.1:59009]
+WebSocket CONNECT /ws [127.0.0.1:59009]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59002][0m
