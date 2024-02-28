@@ -127,3 +127,2750 @@ WebSocket DISCONNECT /ws [127.0.0.1:59006]
 WebSocket HANDSHAKING /ws [127.0.0.1:59009]
 WebSocket CONNECT /ws [127.0.0.1:59009]
 [mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59002][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.05, 127.0.0.1:51424][0m
+[mHTTP GET /favicon.ico 200 [0.03, 127.0.0.1:51424][0m
+[mHTTP GET /logreg/login 200 [0.02, 127.0.0.1:51424][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:51424][0m
+[mHTTP POST /logreg/login/ 200 [0.58, 127.0.0.1:51482][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:51482][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.43, 127.0.0.1:51482][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:51482][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.08, 127.0.0.1:51972][0m
+[36mHTTP GET /static/error.webp 304 [0.01, 127.0.0.1:51972][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:51972][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.05, 127.0.0.1:51972][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:51972][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.06, 127.0.0.1:51972][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:51972][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:51972][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.06, 127.0.0.1:51972][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:51972][0m
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.03, 127.0.0.1:52153][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52153][0m
+[mHTTP GET /logreg/login 200 [0.03, 127.0.0.1:52153][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52153][0m
+[mHTTP POST /logreg/login/ 200 [0.41, 127.0.0.1:52153][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52153][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.43, 127.0.0.1:52153][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52153][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.05, 127.0.0.1:52153][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52153][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.05, 127.0.0.1:52610][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52610][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:52610][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52610][0m
+[mHTTP POST /logreg/login/ 200 [0.38, 127.0.0.1:52610][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52610][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.89, 127.0.0.1:52610][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52610][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.08, 127.0.0.1:52610][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52610][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52610][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.97, 127.0.0.1:52704][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52704][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.06, 127.0.0.1:52704][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52704][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.14, 127.0.0.1:52793][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52793][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:52793][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:52793][0m
+[mHTTP POST /logreg/login/ 200 [1.18, 127.0.0.1:52793][0m
+[mHTTP GET /favicon.ico 200 [0.05, 127.0.0.1:52793][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.84, 127.0.0.1:52793][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52793][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.04, 127.0.0.1:52793][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52793][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.07, 127.0.0.1:52857][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52857][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.05, 127.0.0.1:52857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52857][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.07, 127.0.0.1:52969][0m
+[mHTTP GET /favicon.ico 200 [0.06, 127.0.0.1:52969][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [2.07, 127.0.0.1:53030][0m
+[mHTTP GET /favicon.ico 200 [0.05, 127.0.0.1:53030][0m
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.12, 127.0.0.1:53785][0m
+[mHTTP GET /favicon.ico 200 [0.04, 127.0.0.1:53785][0m
+[mHTTP GET /logreg/login 200 [0.02, 127.0.0.1:53785][0m
+[mHTTP POST /logreg/login/ 200 [0.87, 127.0.0.1:53785][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.61, 127.0.0.1:53785][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.06, 127.0.0.1:53785][0m
+[mHTTP POST /logreg/login/ 200 [0.09, 127.0.0.1:53818][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:53874][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53874][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.85, 127.0.0.1:53999][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:53999][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:53999][0m
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 146, in __acall__
+    response = await sync_to_async(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 479, in __call__
+    ret: _R = await loop.run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 538, in thread_handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET / 500 [2.27, 127.0.0.1:54226][0m
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 146, in __acall__
+    response = await sync_to_async(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 479, in __call__
+    ret: _R = await loop.run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 538, in thread_handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET /favicon.ico 500 [2.10, 127.0.0.1:54226][0m
+[mHTTP GET / 200 [0.04, 127.0.0.1:54226][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54226][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:54226][0m
+[mHTTP POST /logreg/login/ 200 [0.47, 127.0.0.1:54226][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.45, 127.0.0.1:54226][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.07, 127.0.0.1:54226][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:54226][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:54226][0m
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 146, in __acall__
+    response = await sync_to_async(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 479, in __call__
+    ret: _R = await loop.run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 538, in thread_handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET / 500 [2.32, 127.0.0.1:50952][0m
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 146, in __acall__
+    response = await sync_to_async(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 479, in __call__
+    ret: _R = await loop.run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 538, in thread_handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET /favicon.ico 500 [2.08, 127.0.0.1:50952][0m
+[mHTTP GET / 200 [0.05, 127.0.0.1:51005][0m
+[mHTTP GET /favicon.ico 200 [0.03, 127.0.0.1:51005][0m
+[mHTTP GET /logreg/register 200 [0.06, 127.0.0.1:52159][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52159][0m
+[mHTTP POST /logreg/signUp/ 200 [0.55, 127.0.0.1:52175][0m
+[mHTTP GET /main/chats/testuser1@gmail.com/ 200 [0.51, 127.0.0.1:52175][0m
+[mHTTP GET /main/Profile/testuser1@gmail.com/ 200 [0.08, 127.0.0.1:52175][0m
+[mHTTP GET /main/Profile/testuser1@gmail.com/ 200 [0.01, 127.0.0.1:52181][0m
+[mHTTP GET /main/Profile/testuser1@gmail.com/ 200 [0.01, 127.0.0.1:52181][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/testuser1@gmail.com/ 200 [0.05, 127.0.0.1:52245][0m
+[mHTTP GET /main/Profile/testuser1@gmail.com/ 200 [0.01, 127.0.0.1:52245][0m
+[mHTTP GET /main/Profile/testuser1@gmail.com/ 200 [0.01, 127.0.0.1:52245][0m
+[mHTTP GET /main/updateForm/testuser1@gmail.com/ 200 [0.06, 127.0.0.1:52259][0m
+[mHTTP POST /main/updateForm/testuser1@gmail.com/update/ 200 [0.41, 127.0.0.1:52262][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:52262][0m
+[mHTTP GET /logreg/login 200 [0.03, 127.0.0.1:52299][0m
+[mHTTP POST /logreg/login/ 200 [0.51, 127.0.0.1:52304][0m
+[mHTTP GET /main/chats/nns@gmai.com/ 200 [0.13, 127.0.0.1:52307][0m
+[mHTTP POST /logreg/login/ 200 [0.12, 127.0.0.1:52307][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.12, 127.0.0.1:52307][0m
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.40, 127.0.0.1:52307][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:52319]
+WebSocket CONNECT /ws [127.0.0.1:52319]
+[mHTTP GET /main/ws/tester1111@gmail.com/nns@gmai.com/ 200 [0.06, 127.0.0.1:52307][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:52321]
+WebSocket CONNECT /ws [127.0.0.1:52321]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52319]
+WebSocket HANDSHAKING /ws [127.0.0.1:52325]
+WebSocket CONNECT /ws [127.0.0.1:52325]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52325]
+WebSocket HANDSHAKING /ws [127.0.0.1:52327]
+WebSocket CONNECT /ws [127.0.0.1:52327]
+[mHTTP GET /main/ws/tester1111@gmail.com/nns@gmai.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52321]
+WebSocket HANDSHAKING /ws [127.0.0.1:52328]
+WebSocket CONNECT /ws [127.0.0.1:52328]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52327]
+WebSocket HANDSHAKING /ws [127.0.0.1:52330]
+WebSocket CONNECT /ws [127.0.0.1:52330]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52330]
+WebSocket HANDSHAKING /ws [127.0.0.1:52331]
+WebSocket CONNECT /ws [127.0.0.1:52331]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52331]
+WebSocket HANDSHAKING /ws [127.0.0.1:52332]
+WebSocket CONNECT /ws [127.0.0.1:52332]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52332]
+WebSocket HANDSHAKING /ws [127.0.0.1:52333]
+WebSocket CONNECT /ws [127.0.0.1:52333]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52333]
+WebSocket HANDSHAKING /ws [127.0.0.1:52334]
+WebSocket CONNECT /ws [127.0.0.1:52334]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52334]
+WebSocket HANDSHAKING /ws [127.0.0.1:52335]
+WebSocket CONNECT /ws [127.0.0.1:52335]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52335]
+WebSocket HANDSHAKING /ws [127.0.0.1:52336]
+WebSocket CONNECT /ws [127.0.0.1:52336]
+[mHTTP GET /main/ws/nns@gmai.com/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:52307][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52336]
+WebSocket HANDSHAKING /ws [127.0.0.1:52337]
+WebSocket CONNECT /ws [127.0.0.1:52337]
+WebSocket DISCONNECT /ws [127.0.0.1:52337]
+WebSocket HANDSHAKING /ws [127.0.0.1:52339]
+WebSocket CONNECT /ws [127.0.0.1:52339]
+WebSocket DISCONNECT /ws [127.0.0.1:52328]
+WebSocket HANDSHAKING /ws [127.0.0.1:52340]
+WebSocket CONNECT /ws [127.0.0.1:52340]
+WebSocket DISCONNECT /ws [127.0.0.1:52339]
+[mHTTP GET /main/ws/nns@gmai.com/ddfdggdrd@gmail.com/ 200 [0.08, 127.0.0.1:52381][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:52383]
+WebSocket CONNECT /ws [127.0.0.1:52383]
+WebSocket DISCONNECT /ws [127.0.0.1:52383]
+WebSocket HANDSHAKING /ws [127.0.0.1:52387]
+WebSocket CONNECT /ws [127.0.0.1:52387]
+[mHTTP GET /main/ws/tester1111@gmail.com/nns@gmai.com/ 200 [0.01, 127.0.0.1:52471][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52340]
+WebSocket HANDSHAKING /ws [127.0.0.1:52473]
+WebSocket CONNECT /ws [127.0.0.1:52473]
+[mHTTP GET /main/ws/tester1111@gmail.com/nns@gmai.com/ 200 [0.01, 127.0.0.1:52471][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52473]
+WebSocket HANDSHAKING /ws [127.0.0.1:52475]
+WebSocket CONNECT /ws [127.0.0.1:52475]
+WebSocket DISCONNECT /ws [127.0.0.1:52387]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52509][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:52526][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.12, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.15, 127.0.0.1:52526][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP POST /logreg/signUp/ 200 [0.11, 127.0.0.1:52526][0m
+[mHTTP GET /main/chats/davidbakalov33@gmail.com/ 200 [0.13, 127.0.0.1:52526][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:52526][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:52693][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52475]
+[mHTTP GET / 200 [0.03, 127.0.0.1:52841][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52841][0m
+[mHTTP GET /info 200 [0.02, 127.0.0.1:52841][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.05, 127.0.0.1:53024][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /info/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP POST /logreg/signUp/ 200 [0.62, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.48, 127.0.0.1:53024][0m
+[mHTTP POST /logreg/signUp/ 200 [0.13, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.12, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user1@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP POST /logreg/login/ 200 [0.08, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53024][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:53084][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.12, 127.0.0.1:53092][0m
+[mHTTP GET /main/ws/user2@gmail.com/ddfdggdrd@gmail.com/ 200 [0.50, 127.0.0.1:53092][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:53098]
+WebSocket CONNECT /ws [127.0.0.1:53098]
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.00, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.00, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+[mHTTP GET /main/chats/ddfdggdrd@gmail.com/ 200 [0.01, 127.0.0.1:53092][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP POST /logreg/login/ 200 [0.42, 127.0.0.1:53188][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.43, 127.0.0.1:53188][0m
+[mHTTP GET / 200 [0.02, 127.0.0.1:53188][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:53188][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:53188][0m
+[mHTTP POST /logreg/login/ 200 [0.09, 127.0.0.1:53188][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53188][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53188][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.12, 127.0.0.1:53292][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.46, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.13, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.40, 127.0.0.1:53356][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:53361]
+WebSocket CONNECT /ws [127.0.0.1:53361]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.08, 127.0.0.1:53356][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:53362]
+WebSocket CONNECT /ws [127.0.0.1:53362]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53361]
+WebSocket HANDSHAKING /ws [127.0.0.1:53365]
+WebSocket CONNECT /ws [127.0.0.1:53365]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53365]
+WebSocket HANDSHAKING /ws [127.0.0.1:53366]
+WebSocket CONNECT /ws [127.0.0.1:53366]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53366]
+WebSocket HANDSHAKING /ws [127.0.0.1:53367]
+WebSocket CONNECT /ws [127.0.0.1:53367]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53367]
+WebSocket HANDSHAKING /ws [127.0.0.1:53369]
+WebSocket CONNECT /ws [127.0.0.1:53369]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53369]
+WebSocket HANDSHAKING /ws [127.0.0.1:53370]
+WebSocket CONNECT /ws [127.0.0.1:53370]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53370]
+WebSocket HANDSHAKING /ws [127.0.0.1:53371]
+WebSocket CONNECT /ws [127.0.0.1:53371]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53371]
+WebSocket HANDSHAKING /ws [127.0.0.1:53372]
+WebSocket CONNECT /ws [127.0.0.1:53372]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53372]
+WebSocket HANDSHAKING /ws [127.0.0.1:53375]
+WebSocket CONNECT /ws [127.0.0.1:53375]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53375]
+WebSocket HANDSHAKING /ws [127.0.0.1:53376]
+WebSocket CONNECT /ws [127.0.0.1:53376]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53376]
+WebSocket HANDSHAKING /ws [127.0.0.1:53377]
+WebSocket CONNECT /ws [127.0.0.1:53377]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53377]
+WebSocket HANDSHAKING /ws [127.0.0.1:53378]
+WebSocket CONNECT /ws [127.0.0.1:53378]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53362]
+WebSocket HANDSHAKING /ws [127.0.0.1:53379]
+WebSocket CONNECT /ws [127.0.0.1:53379]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53379]
+WebSocket HANDSHAKING /ws [127.0.0.1:53380]
+WebSocket CONNECT /ws [127.0.0.1:53380]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53380]
+WebSocket HANDSHAKING /ws [127.0.0.1:53381]
+WebSocket CONNECT /ws [127.0.0.1:53381]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53381]
+WebSocket HANDSHAKING /ws [127.0.0.1:53382]
+WebSocket CONNECT /ws [127.0.0.1:53382]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53382]
+WebSocket HANDSHAKING /ws [127.0.0.1:53383]
+WebSocket CONNECT /ws [127.0.0.1:53383]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.02, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53383]
+WebSocket HANDSHAKING /ws [127.0.0.1:53384]
+WebSocket CONNECT /ws [127.0.0.1:53384]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53384]
+WebSocket HANDSHAKING /ws [127.0.0.1:53385]
+WebSocket CONNECT /ws [127.0.0.1:53385]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53385]
+WebSocket HANDSHAKING /ws [127.0.0.1:53386]
+WebSocket CONNECT /ws [127.0.0.1:53386]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53386]
+WebSocket HANDSHAKING /ws [127.0.0.1:53387]
+WebSocket CONNECT /ws [127.0.0.1:53387]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53387]
+WebSocket HANDSHAKING /ws [127.0.0.1:53388]
+WebSocket CONNECT /ws [127.0.0.1:53388]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53388]
+WebSocket HANDSHAKING /ws [127.0.0.1:53389]
+WebSocket CONNECT /ws [127.0.0.1:53389]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.01, 127.0.0.1:53356][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53389]
+WebSocket HANDSHAKING /ws [127.0.0.1:53390]
+WebSocket CONNECT /ws [127.0.0.1:53390]
+WebSocket DISCONNECT /ws [127.0.0.1:53378]
+WebSocket HANDSHAKING /ws [127.0.0.1:53392]
+WebSocket CONNECT /ws [127.0.0.1:53392]
+WebSocket DISCONNECT /ws [127.0.0.1:53392]
+WebSocket HANDSHAKING /ws [127.0.0.1:53399]
+WebSocket CONNECT /ws [127.0.0.1:53399]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53404][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53399]
+WebSocket HANDSHAKING /ws [127.0.0.1:53406]
+WebSocket CONNECT /ws [127.0.0.1:53406]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53404][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53406]
+WebSocket HANDSHAKING /ws [127.0.0.1:53407]
+WebSocket CONNECT /ws [127.0.0.1:53407]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53404][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53407]
+WebSocket HANDSHAKING /ws [127.0.0.1:53408]
+WebSocket CONNECT /ws [127.0.0.1:53408]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53404][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53408]
+WebSocket HANDSHAKING /ws [127.0.0.1:53409]
+WebSocket CONNECT /ws [127.0.0.1:53409]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53404][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53409]
+WebSocket HANDSHAKING /ws [127.0.0.1:53410]
+WebSocket CONNECT /ws [127.0.0.1:53410]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.01, 127.0.0.1:53404][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53410]
+WebSocket HANDSHAKING /ws [127.0.0.1:53411]
+WebSocket CONNECT /ws [127.0.0.1:53411]
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.53, 127.0.0.1:53529][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:53532]
+WebSocket CONNECT /ws [127.0.0.1:53532]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.07, 127.0.0.1:53529][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:53534]
+WebSocket CONNECT /ws [127.0.0.1:53534]
+[mHTTP GET /main/ws/user2@gmail.com/zed44@gmail.com/ 200 [0.06, 127.0.0.1:53529][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53534]
+WebSocket HANDSHAKING /ws [127.0.0.1:53535]
+WebSocket CONNECT /ws [127.0.0.1:53535]
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.06, 127.0.0.1:53529][0m
+WebSocket DISCONNECT /ws [127.0.0.1:53532]
+WebSocket HANDSHAKING /ws [127.0.0.1:53536]
+WebSocket CONNECT /ws [127.0.0.1:53536]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:53529][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\consumers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.03, 127.0.0.1:54174][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54174][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.03, 127.0.0.1:54280][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54280][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:54303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54303][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.04, 127.0.0.1:54388][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP POST /logreg/login/ 200 [0.49, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.45, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+Internal Server Error: /main/deleteForm/zed44@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 253, in _get_response_async
+    response = await wrapped_callback(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 479, in __call__
+    ret: _R = await loop.run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\current_thread_executor.py", line 40, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 538, in thread_handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py", line 48, in render_delete
+    return render(request, 'DeleteList.html',{'user':user, 'items':students})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'chatList' with keyword arguments '{'user': ''}' not found. 1 pattern(s) tried: ['main/chats/(?P<user>[^/]+)/\\Z']
+[mHTTP GET /main/deleteForm/zed44@gmail.com/ 200 [0.27, 127.0.0.1:54388][0m
+[36mHTTP GET /static/error.webp 304 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/allStudent/zed44@gmail.com/ 200 [0.53, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/allStudent/zed44@gmail.com/ 200 [0.12, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+Internal Server Error: /main/deleteForm/zed44@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 253, in _get_response_async
+    response = await wrapped_callback(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 479, in __call__
+    ret: _R = await loop.run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\current_thread_executor.py", line 40, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 538, in thread_handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py", line 48, in render_delete
+    return render(request, 'DeleteList.html',{'user':user, 'items':students})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'chatList' with keyword arguments '{'user': ''}' not found. 1 pattern(s) tried: ['main/chats/(?P<user>[^/]+)/\\Z']
+[mHTTP GET /main/deleteForm/zed44@gmail.com/ 200 [0.18, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.06, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.02, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:54388][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:54388][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.52, 127.0.0.1:54388][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:54478]
+WebSocket CONNECT /ws [127.0.0.1:54478]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+WebSocket DISCONNECT /ws [127.0.0.1:54478]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54388][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:54508][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54508][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.10, 127.0.0.1:54508][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54508][0m
+[mHTTP GET /main/deleteForm/zed44@gmail.com/ 200 [0.12, 127.0.0.1:54508][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54508][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:54508][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54508][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\middlewares\errorHandler.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\middlewares\errorHandler.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET /main/ws/zed44@gmail.com/user2@gmail.com/ 200 [0.43, 127.0.0.1:54918][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:54923]
+WebSocket CONNECT /ws [127.0.0.1:54923]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+WebSocket DISCONNECT /ws [127.0.0.1:54923]
+[mHTTP GET / 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.04, 127.0.0.1:54918][0m
+[mHTTP POST /logreg/login/ 200 [0.57, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.45, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:54918][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.06, 127.0.0.1:54918][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:54986]
+WebSocket CONNECT /ws [127.0.0.1:54986]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.08, 127.0.0.1:54918][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:54991]
+WebSocket CONNECT /ws [127.0.0.1:54991]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/ws/kim44@gmail.com/zed44@gmail.com/ 200 [0.06, 127.0.0.1:54918][0m
+WebSocket DISCONNECT /ws [127.0.0.1:54986]
+WebSocket HANDSHAKING /ws [127.0.0.1:54997]
+WebSocket CONNECT /ws [127.0.0.1:54997]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:54918][0m
+WebSocket DISCONNECT /ws [127.0.0.1:54991]
+WebSocket HANDSHAKING /ws [127.0.0.1:55002]
+WebSocket CONNECT /ws [127.0.0.1:55002]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54918][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:55030][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55002]
+WebSocket HANDSHAKING /ws [127.0.0.1:55034]
+WebSocket CONNECT /ws [127.0.0.1:55034]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55030][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:55030][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55034]
+WebSocket HANDSHAKING /ws [127.0.0.1:55039]
+WebSocket CONNECT /ws [127.0.0.1:55039]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55030][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:55030][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55039]
+WebSocket HANDSHAKING /ws [127.0.0.1:55044]
+WebSocket CONNECT /ws [127.0.0.1:55044]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55030][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:55030][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55044]
+WebSocket HANDSHAKING /ws [127.0.0.1:55049]
+WebSocket CONNECT /ws [127.0.0.1:55049]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55030][0m
+WebSocket DISCONNECT /ws [127.0.0.1:54997]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.12, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.06, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.00, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:55066][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55049]
+WebSocket HANDSHAKING /ws [127.0.0.1:55133]
+WebSocket CONNECT /ws [127.0.0.1:55133]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:55066][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:55066][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55133]
+WebSocket HANDSHAKING /ws [127.0.0.1:55138]
+WebSocket CONNECT /ws [127.0.0.1:55138]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/ws/zed44@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:55066][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55138]
+WebSocket HANDSHAKING /ws [127.0.0.1:55143]
+WebSocket CONNECT /ws [127.0.0.1:55143]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.02, 127.0.0.1:55066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+WebSocket DISCONNECT /ws [127.0.0.1:55143]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [79.46, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55171][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:55171][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:55171][0m
+[mHTTP GET /info/ 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP POST /logreg/signUp/ 200 [7.14, 127.0.0.1:55303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55303][0m
+[mHTTP GET /main/chats/greg@gmail.com/ 200 [0.71, 127.0.0.1:55400][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55400][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:55400][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55400][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET /favicon.ico 500 [2.07, 127.0.0.1:55597][0m
+Internal Server Error: /main/chats/kim44@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+Internal Server Error: /main/chats/kim44@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET /main/chats/kim44@gmail.com/ 500 [2.08, 127.0.0.1:55603][0m
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET /favicon.ico 500 [2.09, 127.0.0.1:55603][0m
+Internal Server Error: /main/chats/kim44@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[35;1mHTTP GET /main/chats/kim44@gmail.com/ 500 [2.10, 127.0.0.1:55603][0m
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\middleware\cache.py", line 158, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, "GET", cache=self.cache)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\utils\cache.py", line 392, in get_cache_key
+    headerlist = cache.get(cache_key)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\client.py", line 533, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 1086, in get_connection
+    connection.connect()
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\redis\connection.py", line 270, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+[mHTTP GET / 200 [0.03, 127.0.0.1:55606][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:55606][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP POST /logreg/login/ 200 [0.48, 127.0.0.1:55606][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.43, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.00, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.00, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /logreg/register 200 [0.00, 127.0.0.1:55606][0m
+[mHTTP POST /logreg/signUp/ 200 [2.49, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/nngfhgjhgfghfds@gmai.com/ 200 [0.11, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.00, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.01, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.00, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.00, 127.0.0.1:55606][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.00, 127.0.0.1:55606][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.48, 127.0.0.1:56039][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.47, 127.0.0.1:56151][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56151][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.09, 127.0.0.1:56151][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56303][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.39, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.09, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.07, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/chats/nngfhgjhgfghfds@gmai.com/ 200 [0.12, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/Profile/nngfhgjhgfghfds@gmai.com/ 200 [0.07, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP POST /logreg/login/ 200 [0.56, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET /main/chats/nngfhgjhgfghfds@gmai.com/ 200 [0.11, 127.0.0.1:56303][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56303][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:56484][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:56484][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.06, 127.0.0.1:56484][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56484][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:56484][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.04, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56002][0m
+[mHTTP GET /logreg/login 200 [0.03, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP POST /logreg/login/ 200 [0.86, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.68, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.09, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56002][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56002][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.03, 127.0.0.1:56119][0m
+[mHTTP GET /favicon.ico 200 [0.07, 127.0.0.1:56119][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56119][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56119][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56119][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56119][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.02, 127.0.0.1:56119][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56119][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.54, 127.0.0.1:56119][0m
+[36mHTTP GET /static/error.webp 304 [0.01, 127.0.0.1:56119][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56119][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /favicon.ico 200 [0.06, 127.0.0.1:56216][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.82, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.19, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.25, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /logreg/register 200 [0.03, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP POST /logreg/signUp/ 200 [1.58, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/fffff@gmail.com/ 200 [0.13, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.23, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.37, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.38, 127.0.0.1:56216][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56216][0m
+[mHTTP GET /main/ws/zed44@gmail.com/fffff@gmail.com/ 200 [0.42, 127.0.0.1:56560][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:56565]
+WebSocket CONNECT /ws [127.0.0.1:56565]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56560][0m
+[mHTTP GET /main/ws/fffff@gmail.com/zed44@gmail.com/ 200 [0.13, 127.0.0.1:56560][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:56570]
+WebSocket CONNECT /ws [127.0.0.1:56570]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56560][0m
+[mHTTP GET /main/ws/zed44@gmail.com/fffff@gmail.com/ 200 [0.06, 127.0.0.1:56560][0m
+WebSocket DISCONNECT /ws [127.0.0.1:56565]
+WebSocket HANDSHAKING /ws [127.0.0.1:56579]
+WebSocket CONNECT /ws [127.0.0.1:56579]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56560][0m
+[mHTTP GET /main/ws/fffff@gmail.com/zed44@gmail.com/ 200 [0.14, 127.0.0.1:56560][0m
+WebSocket DISCONNECT /ws [127.0.0.1:56570]
+WebSocket HANDSHAKING /ws [127.0.0.1:56584]
+WebSocket CONNECT /ws [127.0.0.1:56584]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56560][0m
+[mHTTP GET /main/ws/fffff@gmail.com/zed44@gmail.com/ 200 [0.47, 127.0.0.1:56560][0m
+WebSocket DISCONNECT /ws [127.0.0.1:56584]
+WebSocket HANDSHAKING /ws [127.0.0.1:56591]
+WebSocket CONNECT /ws [127.0.0.1:56591]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56560][0m
+WebSocket DISCONNECT /ws [127.0.0.1:56579]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/deleteForm/zed44@gmail.com/ 200 [1.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+WebSocket DISCONNECT /ws [127.0.0.1:56591]
+[mHTTP DELETE /main/deleteForm/zed44@gmail.com/delete/ 200 [0.20, 127.0.0.1:56635][0m
+[mHTTP GET /main/deleteForm/zed44@gmail.com/ 200 [0.20, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.18, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/allStudent/zed44@gmail.com/ 200 [1.26, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:56635][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.15, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.10, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/updatePasswordForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP POST /main/updatePasswordForm/zed44@gmail.com/patch/ 200 [0.18, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.27, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/updatePasswordForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.19, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.10, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56635][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56870][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:56870][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:56870][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:56870][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\chat\urls.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.60, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:57266][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.03, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.13, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57266][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:57266][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:57363][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:57363][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57363][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57363][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.45, 127.0.0.1:57363][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57363][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:57363][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57363][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57363][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.03, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.66, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.12, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.10, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57529][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57529][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.53, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.14, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57792][0m
+[mHTTP GET / 200 [0.02, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /logreg/login 200 [0.03, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP POST /logreg/login/ 200 [0.51, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.11, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:57843][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:57843][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58045][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58045][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.62, 127.0.0.1:58045][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58045][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:58045][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58045][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58045][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58045][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58137][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58137][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.50, 127.0.0.1:58137][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58137][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:58137][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58137][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58137][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58137][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.04, 127.0.0.1:58301][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58301][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:58301][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58301][0m
+[mHTTP POST /logreg/login/ 200 [0.53, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.41, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.03, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58340][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58340][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.14, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58451][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58451][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.06, 127.0.0.1:58566][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:58566][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58566][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58566][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58639][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58639][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58672][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58672][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58672][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:58672][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58672][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP POST /logreg/login/ 200 [0.50, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.44, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.07, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/updateForm/kim44@gmail.com/ 200 [0.00, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP POST /main/updateForm/kim44@gmail.com/update/ 200 [0.13, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58738][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58738][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.10, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /main/updateForm/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP POST /main/updateForm/kim44@gmail.com/update/ 200 [0.47, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:58857][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:58857][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.07, 127.0.0.1:59014][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59014][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:59014][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59014][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.57, 127.0.0.1:59066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.02, 127.0.0.1:59066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:59066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59066][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.01, 127.0.0.1:59066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59066][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.02, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:59316][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:59316][0m
+[mHTTP POST /logreg/login/ 200 [0.55, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /logreg/login 200 [0.00, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.44, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.08, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.12, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59316][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59316][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.02, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.39, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.12, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59467][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59467][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/zed44@gmail.com/ 200 [0.02, 127.0.0.1:59565][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59565][0m
+[mHTTP GET /main/updateForm/zed44@gmail.com/ 200 [0.01, 127.0.0.1:59565][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:59565][0m
+[mHTTP POST /main/updateForm/zed44@gmail.com/update/ 200 [0.42, 127.0.0.1:59565][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59565][0m
+[mHTTP GET /main/chats/zed44@gmail.com/ 200 [0.11, 127.0.0.1:59565][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59565][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59565][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.44, 127.0.0.1:54494][0m
+[mHTTP GET /favicon.ico 200 [0.18, 127.0.0.1:54494][0m
+[mHTTP GET /logreg/register 200 [0.02, 127.0.0.1:54494][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54494][0m
+[mHTTP POST /logreg/signUp/ 200 [0.80, 127.0.0.1:54494][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54494][0m
+[mHTTP GET /main/chats/jh34@gmail.com/ 200 [0.68, 127.0.0.1:54494][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54494][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:54494][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:54494][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:54494][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54494][0m
+[mHTTP POST /logreg/signUp/ 200 [0.09, 127.0.0.1:54537][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54537][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.19, 127.0.0.1:54537][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54537][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:54537][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54537][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:54537][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54537][0m
+[mHTTP POST /logreg/signUp/ 200 [0.12, 127.0.0.1:54563][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54563][0m
+[mHTTP GET /main/chats/sj787654@gmail.com/ 200 [0.22, 127.0.0.1:54563][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54563][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:54563][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54563][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:54644][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54644][0m
+[mHTTP POST /logreg/signUp/ 200 [0.99, 127.0.0.1:54695][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54695][0m
+[mHTTP GET /main/chats/rs456789@gmail.com/ 200 [0.52, 127.0.0.1:54695][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:54695][0m
+[mHTTP GET /main/Profile/rs456789@gmail.com/ 200 [0.19, 127.0.0.1:54695][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54695][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:54695][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54695][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:54733][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54733][0m
+[mHTTP POST /logreg/signUp/ 200 [0.10, 127.0.0.1:54733][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54733][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.17, 127.0.0.1:54733][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:54733][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.45, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55113][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55157][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55157][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:55157][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.05, 127.0.0.1:55157][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55157][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.20, 127.0.0.1:55157][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:55157][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55157][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.13, 127.0.0.1:55178][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.09, 127.0.0.1:55178][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.08, 127.0.0.1:55178][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55178][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:55201][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.06, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.13, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55201][0m
+[mHTTP GET /favicon.ico 200 [0.09, 127.0.0.1:55201][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayAll.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [30.37, 127.0.0.1:55758][0m
+[36mHTTP GET /static/error.webp 304 [0.00, 127.0.0.1:55758][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55758][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.86, 127.0.0.1:55827][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55827][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:55827][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55827][0m
+Internal Server Error: /main/updateForm/tr456776@gmail.com/update/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.update_profile didn't return an HttpResponse object. It returned None instead.
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [49.55, 127.0.0.1:55873][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:55873][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.38, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.05, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.11, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:49775][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayTeacherPage.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.31, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.06, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.09, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.00, 127.0.0.1:50371][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50371][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.03, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.28, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.08, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.05, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50503][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.05, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:50876][0m
+[mHTTP GET /main/updateForm/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP POST /main/updateForm/tr456776@gmail.com/update/ 200 [0.10, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.10, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.05, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.01, 127.0.0.1:50876][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:50876][0m
+[mHTTP GET /main/Profile/tr456776@gmail.com/ 200 [0.04, 127.0.0.1:50946][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50946][0m
+[mHTTP GET /main/chats/tr456776@gmail.com/ 200 [0.09, 127.0.0.1:50961][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:50961][0m
+[mHTTP GET /logreg/login 200 [0.02, 127.0.0.1:50961][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP POST /logreg/login/ 200 [0.38, 127.0.0.1:50961][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /main/chats/sj787654@gmail.com/ 200 [0.08, 127.0.0.1:50961][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /main/ws/sj787654@gmail.com/tr456776@gmail.com/ 200 [0.29, 127.0.0.1:50961][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:50990]
+WebSocket CONNECT /ws [127.0.0.1:50990]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /main/ws/tr456776@gmail.com/sj787654@gmail.com/ 200 [0.04, 127.0.0.1:50961][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:50995]
+WebSocket CONNECT /ws [127.0.0.1:50995]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /main/ws/sj787654@gmail.com/tr456776@gmail.com/ 200 [0.05, 127.0.0.1:50961][0m
+WebSocket DISCONNECT /ws [127.0.0.1:50990]
+WebSocket HANDSHAKING /ws [127.0.0.1:51001]
+WebSocket CONNECT /ws [127.0.0.1:51001]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /main/ws/tr456776@gmail.com/sj787654@gmail.com/ 200 [0.04, 127.0.0.1:50961][0m
+WebSocket DISCONNECT /ws [127.0.0.1:50995]
+WebSocket HANDSHAKING /ws [127.0.0.1:51006]
+WebSocket CONNECT /ws [127.0.0.1:51006]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+[mHTTP GET /main/ws/tr456776@gmail.com/sj787654@gmail.com/ 200 [0.04, 127.0.0.1:50961][0m
+WebSocket DISCONNECT /ws [127.0.0.1:51006]
+WebSocket HANDSHAKING /ws [127.0.0.1:51011]
+WebSocket CONNECT /ws [127.0.0.1:51011]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:50961][0m
+WebSocket DISCONNECT /ws [127.0.0.1:51011]
+WebSocket DISCONNECT /ws [127.0.0.1:51001]
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\displayUser.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.02, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP POST /logreg/signUp/ 200 [0.35, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.31, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /logreg/register 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52184][0m
+[mHTTP POST /logreg/signUp/ 200 [0.09, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.08, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:52184][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52184][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:52407][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52407][0m
+[mHTTP POST /logreg/login/ 200 [0.04, 127.0.0.1:52407][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52407][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.08, 127.0.0.1:52407][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52407][0m
+[mHTTP GET /main/ws/kim44@gmail.com/jh34@gmail.com/ 200 [0.47, 127.0.0.1:52407][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:52447]
+WebSocket CONNECT /ws [127.0.0.1:52447]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52407][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.08, 127.0.0.1:52407][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52447]
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:52407][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.06, 127.0.0.1:52480][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52480][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52480][0m
+[mHTTP GET /main/ws/kim44@gmail.com/jh34@gmail.com/ 200 [0.04, 127.0.0.1:52480][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:52491]
+WebSocket CONNECT /ws [127.0.0.1:52491]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52480][0m
+[mHTTP GET /main/ws/kim44@gmail.com/jh34@gmail.com/ 200 [0.13, 127.0.0.1:52480][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52491]
+WebSocket HANDSHAKING /ws [127.0.0.1:52496]
+WebSocket CONNECT /ws [127.0.0.1:52496]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52480][0m
+[mHTTP GET /main/ws/kim44@gmail.com/jh34@gmail.com/ 200 [0.07, 127.0.0.1:52480][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52496]
+WebSocket HANDSHAKING /ws [127.0.0.1:52506]
+WebSocket CONNECT /ws [127.0.0.1:52506]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52480][0m
+[mHTTP GET /main/ws/kim44@gmail.com/jh34@gmail.com/ 200 [0.06, 127.0.0.1:52480][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52506]
+WebSocket HANDSHAKING /ws [127.0.0.1:52512]
+WebSocket CONNECT /ws [127.0.0.1:52512]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:52480][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.08, 127.0.0.1:52480][0m
+WebSocket DISCONNECT /ws [127.0.0.1:52512]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:52480][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.02, 127.0.0.1:59109][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59109][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP POST /logreg/login/ 200 [0.46, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.42, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/allStudent/ja6781@gmail.com/ 200 [0.50, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.10, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/deleteForm/ja6781@gmail.com/ 200 [0.13, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP DELETE /main/deleteForm/ja6781@gmail.com/delete/ 200 [0.14, 127.0.0.1:59417][0m
+[mHTTP GET /main/deleteForm/ja6781@gmail.com/ 200 [0.13, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/deleteForm/ja6781@gmail.com/ 200 [0.11, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.10, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP POST /logreg/login/ 200 [0.05, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.11, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.09, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/updateForm/ja6781@gmail.com/ 200 [0.03, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP POST /main/updateForm/ja6781@gmail.com/update/ 200 [0.11, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.11, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.06, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59417][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.07, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /main/updatePasswordForm/ja6781@gmail.com/ 200 [0.03, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP POST /main/updatePasswordForm/ja6781@gmail.com/patch/ 200 [0.06, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.11, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.06, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59597][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59597][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.03, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/updateForm/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP POST /main/updateForm/ja6781@gmail.com/update/ 200 [0.39, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.13, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59701][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59701][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\helpers\UpdateUser.py changed, reloading.
+Watching for file changes with StatReloader
+[mHTTP GET /main/updateForm/ja6781@gmail.com/ 200 [0.02, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP POST /main/updateForm/ja6781@gmail.com/update/ 200 [0.52, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.12, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.07, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/Profile/ja6781@gmail.com/ 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.12, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.12, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP POST /logreg/login/ 200 [0.46, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.13, 127.0.0.1:59821][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/ws/kim44@gmail.com/ja6781@gmail.com/ 200 [0.41, 127.0.0.1:59821][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:59884]
+WebSocket CONNECT /ws [127.0.0.1:59884]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/ws/ja6781@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:59821][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:59889]
+WebSocket CONNECT /ws [127.0.0.1:59889]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/ws/ja6781@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:59821][0m
+WebSocket DISCONNECT /ws [127.0.0.1:59889]
+WebSocket HANDSHAKING /ws [127.0.0.1:59897]
+WebSocket CONNECT /ws [127.0.0.1:59897]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:59821][0m
+[mHTTP GET /main/ws/kim44@gmail.com/ja6781@gmail.com/ 200 [0.06, 127.0.0.1:59821][0m
+WebSocket DISCONNECT /ws [127.0.0.1:59884]
+WebSocket HANDSHAKING /ws [127.0.0.1:59904]
+WebSocket CONNECT /ws [127.0.0.1:59904]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:59821][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.05, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:60642][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:60642][0m
+[mHTTP POST /logreg/login/ 200 [0.39, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:60642][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.42, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:60642][0m
+[mHTTP GET /main/allStudent/kim44@gmail.com/ 200 [0.74, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:60642][0m
+Internal Server Error: /main/allStudent/kim44@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/kim44@gmail.com/ 200 [4.23, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:60642][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:60642][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:60642][0m
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\middlewares\errorHandler.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\middlewares\errorHandler.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Давід\PycharmProjects\Django_Final_Project\main\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /info/ 200 [0.02, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP POST /logreg/login/ 200 [0.50, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:61084][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.44, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+Internal Server Error: /main/allStudent/ja6781@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/ja6781@gmail.com/ 200 [4.48, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /main/allStudent/ja6781@gmail.com/ 200 [0.13, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.10, 127.0.0.1:61084][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61084][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.10, 127.0.0.1:61167][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61167][0m
+Internal Server Error: /main/allStudent/ja6781@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/ja6781@gmail.com/ 200 [0.08, 127.0.0.1:61186][0m
+[mHTTP GET /favicon.ico 200 [0.06, 127.0.0.1:61186][0m
+[mHTTP GET /main/allStudent/ja6781@gmail.com/ 200 [0.14, 127.0.0.1:61186][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:61186][0m
+[mHTTP GET /main/chats/ja6781@gmail.com/ 200 [0.10, 127.0.0.1:61397][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:61397][0m
+[mHTTP GET / 200 [0.00, 127.0.0.1:61397][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61397][0m
+Watching for file changes with StatReloader
+[mHTTP GET / 200 [0.03, 127.0.0.1:61703][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61703][0m
+[mHTTP GET /info/ 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP POST /logreg/login/ 200 [0.49, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.42, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/Profile/tester1111@gmail.com/ 200 [0.09, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/updateForm/tester1111@gmail.com/ 200 [0.03, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP POST /main/updateForm/tester1111@gmail.com/update/ 200 [0.08, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.11, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:61720][0m
+[mHTTP GET /main/Profile/tester1111@gmail.com/ 200 [0.06, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:61720][0m
+[mHTTP GET /main/Profile/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:61720][0m
+[mHTTP GET /main/Profile/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/Profile/tester1111@gmail.com/ 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/updatePasswordForm/tester1111@gmail.com/ 200 [0.03, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP POST /main/updatePasswordForm/tester1111@gmail.com/patch/ 200 [0.06, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.12, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/Profile/tester1111@gmail.com/ 200 [0.06, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.11, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /logreg/login 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP POST /logreg/login/ 200 [0.06, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/ws/kim44@gmail.com/tester1111@gmail.com/ 200 [0.53, 127.0.0.1:61720][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:61821]
+WebSocket CONNECT /ws [127.0.0.1:61821]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/ws/tester1111@gmail.com/kim44@gmail.com/ 200 [0.07, 127.0.0.1:61720][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:61826]
+WebSocket CONNECT /ws [127.0.0.1:61826]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+WebSocket DISCONNECT /ws [127.0.0.1:61826]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+WebSocket DISCONNECT /ws [127.0.0.1:61821]
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:61720][0m
+[mHTTP GET /main/ws/tester1111@gmail.com/kim44@gmail.com/ 200 [0.06, 127.0.0.1:61720][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:61844]
+WebSocket CONNECT /ws [127.0.0.1:61844]
+[mHTTP GET /favicon.ico 200 [0.06, 127.0.0.1:61720][0m
+[mHTTP GET /main/ws/kim44@gmail.com/tester1111@gmail.com/ 200 [0.06, 127.0.0.1:61720][0m
+WebSocket HANDSHAKING /ws [127.0.0.1:61849]
+WebSocket CONNECT /ws [127.0.0.1:61849]
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:61720][0m
+WebSocket DISCONNECT /ws [127.0.0.1:61849]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/allStudent/kim44@gmail.com/ 200 [0.56, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.12, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.13, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP DELETE /main/deleteForm/kim44@gmail.com/delete/ 200 [0.11, 127.0.0.1:61720][0m
+[mHTTP GET /main/deleteForm/kim44@gmail.com/ 200 [0.10, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:61720][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61720][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.13, 127.0.0.1:61969][0m
+WebSocket DISCONNECT /ws [127.0.0.1:61844]
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:61969][0m
+Internal Server Error: /main/allStudent/tester1111@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [4.19, 127.0.0.1:62000][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62000][0m
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [0.36, 127.0.0.1:62000][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62000][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.10, 127.0.0.1:62000][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62000][0m
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [0.11, 127.0.0.1:62000][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:62000][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.10, 127.0.0.1:62066][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62066][0m
+Internal Server Error: /main/allStudent/tester1111@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [4.17, 127.0.0.1:62076][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62076][0m
+Internal Server Error: /main/allStudent/tester1111@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [0.10, 127.0.0.1:62076][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62076][0m
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [0.13, 127.0.0.1:62076][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62076][0m
+[mHTTP GET /main/chats/tester1111@gmail.com/ 200 [0.11, 127.0.0.1:62129][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62129][0m
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [0.12, 127.0.0.1:62197][0m
+[mHTTP GET /favicon.ico 200 [0.02, 127.0.0.1:62197][0m
+Internal Server Error: /main/allStudent/tester1111@gmail.com/
+Traceback (most recent call last):
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\asgiref\sync.py", line 534, in thread_handler
+    raise exc_info[1]
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = await get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 265, in _get_response_async
+    self.check_response(response, callback)
+  File "C:\Users\Давід\PycharmProjects\Django_Final_Project\.venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.viewsNode.redirect_GET_req_to_express didn't return an HttpResponse object. It returned None instead.
+[mHTTP GET /main/allStudent/tester1111@gmail.com/ 200 [4.23, 127.0.0.1:62197][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62197][0m
+[mHTTP GET / 200 [0.01, 127.0.0.1:62229][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62229][0m
+[mHTTP GET /logreg/register 200 [0.03, 127.0.0.1:62245][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62245][0m
+[mHTTP POST /logreg/signUp/ 200 [0.12, 127.0.0.1:62245][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62245][0m
+[mHTTP GET /main/chats/sdvdfvfsd@gmail.com/ 200 [0.12, 127.0.0.1:62245][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62245][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.00, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.12, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.10, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.11, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.10, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/chats/kim44@gmail.com/ 200 [0.10, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /main/Profile/kim44@gmail.com/ 200 [0.06, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m
+[mHTTP GET /favicon.ico 200 [0.01, 127.0.0.1:62321][0m

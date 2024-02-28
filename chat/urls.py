@@ -19,9 +19,9 @@ from django.urls import path, include, re_path
 from chat import views
 urlpatterns = [
    # path('admin/', admin.site.urls),
-    path("",views.RenderMain, name="main"),
+    path("",views.render_main, name="main"),
     path("logreg/",include("log_reg.urls")),
     path("main/", include("main.urls")),
-    path("info",views.render_info, name="info"),
+    path("info/",views.render_info, name="info"),
     re_path('.*', views.nothing),
 ]

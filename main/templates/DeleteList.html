@@ -57,7 +57,7 @@
     </style>
 </head>
 <body>
-    <h2 >Who do you want to delete</h2>
+    <h2 >Who do you want to delete,{{user}}</h2>
     <ul>
         {% for item in items %}
         <li class="item">
@@ -68,7 +68,7 @@
         </li>
         {% endfor %}
     </ul>
-    <a href="{% url 'main' %}">to main page</a><br>
+    <a href="{% url 'chatList' user=user %}">to chat page</a><br>
     <script>
 function Delete(email){
     fetch('delete/', {

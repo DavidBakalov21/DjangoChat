@@ -51,12 +51,12 @@
     <p>After completing the steps above, you can start chatting with other users. For checking purposes, please create one more account and chat with it.</p>
     <p>You can also login and check chat between people by login as these two users (email:tester1111@gmail.com, password:67) (email:kim44@gmail.com, password:223)</p>
     <p>First message in each chat will serv ping message and won't be delivered to your friend</p>
-    <p>In the page with list of available chats you can also click on "Hi, +"email of the user"!" text which will open the profile of the user, by clicking on one of the buttons you will call the form which will allow you to modify user's profile</p>
+    <p>In the page with list of available chats you can also click on "Hi, +"email of the user"!" text which will open the profile of the user, by clicking on the buttons you will call the forms which will allow you to modify user's profile</p>
     <h3> changes made during the integration of Websockets and the customization of templates</h3>
     <p>Well, consumer had major changes now it support multiple rooms, so messages will be broadcasted only to users that are in the same room, html file also got changed not only by generated styles, but also generates names for rooms based on users(their emails) in chat</p>
     <h3>Crud operations instructions:</h3>
     <p>This chat application has two entities: messages and users. User can create his user, basically his account, he will be able to see other users in chat , he is also able to fully update his account or just update password </p>
-    <p>In order to update nn the page with list of available chats you can also click on "Hi, +"email of the user"!", then you will see you account page with different options </p>
+    <p>In order to update, on the page with list of available chats you can also click on "Hi, +"email of the user"!", then you will see you account page with different options </p>
     <p>In order to delete student's account you must be a teacher. If user is a techer he will have better version of the chat list page, the he will be able to go to the list of available to delete users</p>
     <h3>Mongo db integration</h3>
     <p>this app uses two model one is used to store user accounts, another one is for storing message from chat rooms</p>
@@ -67,5 +67,6 @@
     <p>Teacher users can see all the information about students including password using this moicroservice.</p>
     <p>In order to use it you need to be a teacher and click "See all students" button on the chat list page </p>
     <p>!!!! NODE JS APP MUST BE LAUNCHED !!!!</p>
+    <p>!!!! redis server must be launched in order to cach data in the application!!!!</p>
     <a href="{% url 'main' %}" class="main-page-link">To the Main Page</a>
 </div>
