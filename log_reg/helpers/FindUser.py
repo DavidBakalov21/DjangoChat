@@ -7,4 +7,5 @@ def login_user(request,insert_data, collection):
         else:
             return render(request,'Loginfail.html')
     except Exception as e:
-        return render(request, 'error.html',{ "info":f'Error: {str(e)}'}) 
+        print(e)
+        #return render(request, 'error.html',{ "info":f'Error: {str(e)}'}) 
